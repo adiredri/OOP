@@ -1,4 +1,4 @@
-# OOP  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="20px">
+# OOP  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="27px">
 This repository contains projects in the Object-Oriented Programming course, in the C# language. The code was written in Visual Studio
 
 ## The course contains:
