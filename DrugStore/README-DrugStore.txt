@@ -1,6 +1,6 @@
-Inheritance and polymorphism
+# Drug Store
 
-  In this question, an online store that manages cannabis medicines, which are allowed to be used, must be realized.
+In this question, an online store that manages cannabis medicines, which are allowed to be used, must be realized.
 The functionality we want to have in the store is for example this:
 • Should allow us to enter information about the various medications and receive this information.
 • You need to save the information regularly so that it can be used in the future.
