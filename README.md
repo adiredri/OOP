@@ -49,7 +49,7 @@ Contains 4 parts:
 
 ---
 
-#### WORK 5 – Drug Store Management System <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="25px">
+#### WORK 5 – Drug Store Management System (C#)
 
 A small C# program simulating an online cannabis pharmacy.  
 - Class hierarchy for different drug types: `EyeDrops`, `Oil`, `Cream`, all inheriting from `Drug`  
@@ -57,19 +57,15 @@ A small C# program simulating an online cannabis pharmacy.
 - A `Date` class tracks drug expiry or registration  
 - Business logic mimics real-world object modeling
 
-More info: [README-DrugStore.txt](https://github.com/adiredri/OOP/blob/main/DrugStore/README-DrugStore.txt)
-
 ---
 
-#### WORK 6 – Israel Tour System <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="25px">
+#### WORK 6 – Israel Tour System (C#)
 
 Models a travel agency handling Israeli trip data.  
 - `Date`, `Trip`, and `IsraelTour` classes model real-world travel logic  
 - Includes array of trips, filtering, and management logic  
 - Tests demonstrate object initialization and flow of data  
 - Reinforces inheritance and composition in C# OOP
-
-More info: [README-IsraelTour.txt](https://github.com/adiredri/OOP/blob/main/IsraelTour/README-IsraelTour.txt)
 
 ---
 
