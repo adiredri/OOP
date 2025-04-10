@@ -1,28 +1,75 @@
-# OOP - C++
+# OOP – Project Collection
+
+---
 
 ## WORKS
 
-Object-Oriented Programming exercises focusing on classes, inheritance, polymorphism, and operator overloading.
+This repository contains 6 Object-Oriented Programming projects, combining exercises in both **C++** (Works 1–4) and **C#** (Works 5–6).  
+Each project focuses on core principles such as encapsulation, inheritance, polymorphism, abstraction, operator overloading, and more.
 
 ---
 
-#### [EX1_BankSystem](#)  
-Implements a banking system with classes: Person, Account, Transaction, and Bank. Includes constructors and methods for withdrawals, deposits, account management, and transfers.
+#### WORK 1 – Banking System (C++)
+
+Implements a mini banking system with four classes: `Person`, `Account`, `Transaction`, and `Bank`.  
+- Supports deposits, withdrawals, transfers, and account ownership changes  
+- Uses dynamic arrays and object composition  
+- Emphasizes encapsulation and proper constructor use  
+- Tests include multiple bank actions and state tracking
 
 ---
 
-#### [EX2_StrOperators](#)  
-Custom string class with full operator overloading: assignment, concatenation, comparison, indexing, increment (++), cast to int, character search, etc.
+#### WORK 2 – Custom String Class (C++)
+
+Recreates a `Str` class that mimics string behavior with manual memory management.  
+- Implements full operator overloading: `+`, `=`, `==`, `[]`, `++`, casting, etc.  
+- Handles dynamic allocation and deep copy  
+- Includes edge-case handling for mutation and chaining  
+- Tests validate correctness of operators and memory behavior
 
 ---
 
-#### [EX3_ShapesInheritance](#)  
-Inheritance between geometric shapes: Circle, Quad, Square, all derived from an abstract base class Shape. Uses virtual functions and polymorphic array handling.
+#### WORK 3 – Shape Inheritance System (C++)
+
+Builds a geometric hierarchy with inheritance and polymorphism: `Shape` → `Circle`, `Quad`, `Square`.  
+- Base class is abstract with virtual methods  
+- Each shape has specific attributes (radius, sides, etc.)  
+- Includes a polymorphic container `allShapes` to manage objects  
+- Demonstrates overriding, upcasting, and cleanup via virtual destructors
 
 ---
 
-#### [EX4_ZooPolymorphism](#)  
-Zoo system with multiple inheritance and polymorphism. Includes classes like Mammals, Birds, Fish, GoldFish, Mermaid. Supports saving/loading to text and binary files.
+#### WORK 4 – Student Sorting & Radio Controller (C++)
+
+Contains 4 parts:
+- `Vector<T>` template implementation with internal pointer logic  
+- Save/load functionality for a `Student` class using binary files  
+- A `Radio` class with frequency/volume control using operator overloading  
+- Abstract `StuSorter` class with derived classes to sort students by name or average
+
+---
+
+#### WORK 5 – Drug Store Management System <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="25px">
+
+A small C# program simulating an online cannabis pharmacy.  
+- Class hierarchy for different drug types: `EyeDrops`, `Oil`, `Cream`, all inheriting from `Drug`  
+- Central `Inventory` class to manage stock and validation  
+- A `Date` class tracks drug expiry or registration  
+- Business logic mimics real-world object modeling
+
+More info: [README-DrugStore.txt](https://github.com/adiredri/OOP/blob/main/DrugStore/README-DrugStore.txt)
+
+---
+
+#### WORK 6 – Israel Tour System <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="25px">
+
+Models a travel agency handling Israeli trip data.  
+- `Date`, `Trip`, and `IsraelTour` classes model real-world travel logic  
+- Includes array of trips, filtering, and management logic  
+- Tests demonstrate object initialization and flow of data  
+- Reinforces inheritance and composition in C# OOP
+
+More info: [README-IsraelTour.txt](https://github.com/adiredri/OOP/blob/main/IsraelTour/README-IsraelTour.txt)
 
 ---
 
@@ -39,3 +86,10 @@ The tests cover a variety of topics and implementations, including:
 - STL-based generic functions (e.g., filter/map using iterators)
 - Tree structures and custom traversal logic
 - Real-world modeling tasks (Zoo, Employees, Dogs)
+
+---
+
+### Project Authors
+
+- [Adir Edri](https://github.com/adiredri)
+- [Ofir Almog](https://github.com/Ofigu)
