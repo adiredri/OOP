@@ -9,7 +9,7 @@ Each project focuses on core principles such as encapsulation, inheritance, poly
 
 ---
 
-#### [WORK 1 – Banking System (C++)](https://github.com/adiredri/OOP/tree/main/Works/EX1_BankSystem)
+#### [EX1 – Banking System (C++)](https://github.com/adiredri/OOP/tree/main/Works/EX1_BankSystem)
 
 Implements a mini banking system with four classes: `Person`, `Account`, `Transaction`, and `Bank`.  
 - Supports deposits, withdrawals, transfers, and account ownership changes  
@@ -19,7 +19,7 @@ Implements a mini banking system with four classes: `Person`, `Account`, `Transa
 
 ---
 
-#### [WORK 2 – Custom String Class (C++)](https://github.com/adiredri/OOP/tree/main/Works/EX2_StrOperators)
+#### [EX2 – Custom String Class (C++)](https://github.com/adiredri/OOP/tree/main/Works/EX2_StrOperators)
 
 Recreates a `Str` class that mimics string behavior with manual memory management.  
 - Implements full operator overloading: `+`, `=`, `==`, `[]`, `++`, casting, etc.  
@@ -29,7 +29,7 @@ Recreates a `Str` class that mimics string behavior with manual memory managemen
 
 ---
 
-#### [WORK 3 – Shape Inheritance System (C++)](https://github.com/adiredri/OOP/tree/main/Works/EX3_ShapesInheritance)
+#### [EX3 – Shape Inheritance System (C++)](https://github.com/adiredri/OOP/tree/main/Works/EX3_ShapesInheritance)
 
 Builds a geometric hierarchy with inheritance and polymorphism: `Shape` → `Circle`, `Quad`, `Square`.  
 - Base class is abstract with virtual methods  
@@ -39,7 +39,7 @@ Builds a geometric hierarchy with inheritance and polymorphism: `Shape` → `Cir
 
 ---
 
-#### [WORK 4 – Student Sorting & Radio Controller (C++)](https://github.com/adiredri/OOP/tree/main/Works/EX4_StudentRadio)
+#### [EX4 – Student Sorting & Radio Controller (C++)](https://github.com/adiredri/OOP/tree/main/Works/EX4_ZooPolymorphism)
 
 Contains 4 parts:
 - `Vector<T>` template implementation with internal pointer logic  
@@ -49,7 +49,7 @@ Contains 4 parts:
 
 ---
 
-#### [WORK 5 – Drug Store Management System (C#)](https://github.com/adiredri/OOP/tree/main/Works/EX5_DrugStore)
+#### [EX5 – Drug Store Management System (C#)](https://github.com/adiredri/OOP/tree/main/Works/EX5_DrugStore)
 
 A small C# program simulating an online cannabis pharmacy.  
 - Class hierarchy for different drug types: `EyeDrops`, `Oil`, `Cream`, all inheriting from `Drug`  
@@ -59,7 +59,7 @@ A small C# program simulating an online cannabis pharmacy.
 
 ---
 
-#### [WORK 6 – Israel Tour System (C#)](https://github.com/adiredri/OOP/tree/main/Works/EX6_IsraelTour)
+#### [EX6 – Israel Tour System (C#)](https://github.com/adiredri/OOP/tree/main/Works/EX6_IsraelTour)
 
 Models a travel agency handling Israeli trip data.  
 - `Date`, `Trip`, and `IsraelTour` classes model real-world travel logic  
