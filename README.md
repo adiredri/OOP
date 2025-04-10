@@ -61,25 +61,6 @@ A combined project featuring:
 
 ---
 
-<<<<<<< HEAD
-#### WORK 5 – Drug Store Management System (C#)
-
-A small C# program simulating an online cannabis pharmacy.  
-- Class hierarchy for different drug types: `EyeDrops`, `Oil`, `Cream`, all inheriting from `Drug`  
-- Central `Inventory` class to manage stock and validation  
-- A `Date` class tracks drug expiry or registration  
-- Business logic mimics real-world object modeling
-
----
-
-#### WORK 6 – Israel Tour System (C#)
-
-Models a travel agency handling Israeli trip data.  
-- `Date`, `Trip`, and `IsraelTour` classes model real-world travel logic  
-- Includes array of trips, filtering, and management logic  
-- Tests demonstrate object initialization and flow of data  
-- Reinforces inheritance and composition in C# OOP
-=======
 #### [EX5 – Drug Store Management System (C#)](https://github.com/adiredri/OOP/tree/main/Works/EX5_DrugStore)
 
 Simulates an online cannabis pharmacy.  
@@ -97,7 +78,6 @@ Models a travel agency managing trip information.
 - Supports adding, filtering, and managing trips  
 - Demonstrates encapsulation, composition, and use of arrays  
 - Designed as a full OOP-based solution in C#
->>>>>>> 3886c3ebaa7a2e6503b1bd51998c912f69f65ec4
 
 ---
 
