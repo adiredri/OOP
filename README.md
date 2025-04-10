@@ -1,37 +1,41 @@
-# OOP  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="25px">
-This repository contains projects in the Object-Oriented Programming course, in the C# language. The code was written in Visual Studio
+# OOP - C++
 
-## The course contains:
+## WORKS
 
-* Classes, objects and abstract methods
-* Inclusion and inheritance between departments
-* An array of objects
-* Inheritance and polymorphism
+Object-Oriented Programming exercises focusing on classes, inheritance, polymorphism, and operator overloading.
 
+---
 
-## <span style="green">[Project 1 - Israel Tour](https://github.com/adiredri/OOP/tree/main/IsraelTour "Project 1 - Israel Tour")</span>
+#### [EX1_BankSystem](#)  
+Implements a banking system with classes: Person, Account, Transaction, and Bank. Includes constructors and methods for withdrawals, deposits, account management, and transfers.
 
-### About
-In this folder I will present a project that I did as part of my degree, it is about a travel agency that decided to computerize its travel data. For this purpose I used three classes:
-* Date - a class that represents time
-* Trip - a class that represents a trip
-* IsraelTour - a department that represents the travel agency.
-* Additionally, there is the main program department, where tests will be performed on the departments to check that everything is working properly.
+---
 
-To read more about the data requested in the project, <span style="blue">[click here](https://github.com/adiredri/OOP/blob/main/IsraelTour/README-IsraelTour.txt "click here")</span> 
+#### [EX2_StrOperators](#)  
+Custom string class with full operator overloading: assignment, concatenation, comparison, indexing, increment (++), cast to int, character search, etc.
 
+---
 
-## <span style="blue">[Project 2 - Drug Store](https://github.com/adiredri/OOP/tree/main/DrugStore "Drug Store")</span>
+#### [EX3_ShapesInheritance](#)  
+Inheritance between geometric shapes: Circle, Quad, Square, all derived from an abstract base class Shape. Uses virtual functions and polymorphic array handling.
 
-### About
-In this folder I will present a project that I did as part of my degree, it's about an online store that manages cannabis medicines, which are allowed to be used, which decided to computerize its travel data.
-For this purpose I used three classes:
-* Date - a class that represents time
-* Drug - a class that represents a drug and will be the parent class for the other drugs
-* EyeDropsDrug - a class that represents a drug for poor eye drops.
-* OilDrug - a class that represents an oil-type drug
-* CreamDrug - a class that represents a cream-type drug for application
-* Inventory- a department that represents the actual number of medications
-* Additionally, there is the main program department, where tests will be performed on the departments to check that everything is working properly.
+---
 
-To read more about the data requested in the project, <span style="blue">[click here](https://github.com/adiredri/OOP/blob/main/DrugStore/README-DrugStore.txt "click here")</span> 
+#### [EX4_ZooPolymorphism](#)  
+Zoo system with multiple inheritance and polymorphism. Includes classes like Mammals, Birds, Fish, GoldFish, Mermaid. Supports saving/loading to text and binary files.
+
+---
+
+## [Tests](#)
+
+This section includes examples and past exams designed to test core Object-Oriented Programming (OOP) concepts in C++.  
+The tests cover a variety of topics and implementations, including:
+
+- Templates and generic programming (e.g., vector-like classes)
+- File I/O operations (save/load custom objects)
+- Operator overloading (e.g., for custom classes like Radio, Clock, Complex)
+- Inheritance and polymorphism (e.g., sorting strategies, virtual functions)
+- Multiple inheritance and abstract class structures
+- STL-based generic functions (e.g., filter/map using iterators)
+- Tree structures and custom traversal logic
+- Real-world modeling tasks (Zoo, Employees, Dogs)
