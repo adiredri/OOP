@@ -12,7 +12,7 @@ They are implemented independently and demonstrate the use of reusable component
 Key topics include:
 - C++ with templates, binary/text file handling, and virtual methods  
 - C# with class hierarchies, inheritance, and business logic design  
-- Practical implementation of abstract programming concepts
+- Practical implementation of abstract programming concepts 
 
 ---
 
